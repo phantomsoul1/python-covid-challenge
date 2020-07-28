@@ -1,0 +1,51 @@
+﻿Data as of,Start week,End Week,State,Sex,Age group,COVID-19 Deaths
+7/22/20,2/1/20,7/11/20,New York,Male,Under 5 years,0
+7/22/20,2/1/20,7/11/20,New York,Male,5-14 years,0
+7/22/20,2/1/20,7/11/20,New York,Male,15-24 years,43
+7/22/20,2/1/20,7/11/20,New York,Male,25-34 years,227
+7/22/20,2/1/20,7/11/20,New York,Male,35-44 years,680
+7/22/20,2/1/20,7/11/20,New York,Male,45-54 years,1862
+7/22/20,2/1/20,7/11/20,New York,Male,55-64 years,4572
+7/22/20,2/1/20,7/11/20,New York,Male,65-74 years,7231
+7/22/20,2/1/20,7/11/20,New York,Male,75-84 years,8223
+7/22/20,2/1/20,7/11/20,New York,Male,85 years and over,8850
+7/22/20,2/1/20,7/11/20,New Jersey,Male,Under 5 years,0
+7/22/20,2/1/20,7/11/20,New Jersey,Male,5-14 years,0
+7/22/20,2/1/20,7/11/20,New Jersey,Male,15-24 years,11
+7/22/20,2/1/20,7/11/20,New Jersey,Male,25-34 years,104
+7/22/20,2/1/20,7/11/20,New Jersey,Male,35-44 years,264
+7/22/20,2/1/20,7/11/20,New Jersey,Male,45-54 years,728
+7/22/20,2/1/20,7/11/20,New Jersey,Male,55-64 years,1758
+7/22/20,2/1/20,7/11/20,New Jersey,Male,65-74 years,2663
+7/22/20,2/1/20,7/11/20,New Jersey,Male,75-84 years,3589
+7/22/20,2/1/20,7/11/20,New Jersey,Male,85 years and over,4689
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,Under 5 years,0
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,5-14 years,0
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,15-24 years,0
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,25-34 years,10
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,35-44 years,43
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,45-54 years,157
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,55-64 years,517
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,65-74 years,1180
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,75-84 years,2131
+7/22/20,2/1/20,7/11/20,Massachusetts,Male,85 years and over,3703
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,Under 5 years,0
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,5-14 years,0
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,15-24 years,0
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,25-34 years,17
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,35-44 years,55
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,45-54 years,222
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,55-64 years,653
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,65-74 years,1298
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,75-84 years,1852
+7/22/20,2/1/20,7/11/20,Pennsylvania,Male,85 years and over,3119
+7/22/20,2/1/20,7/11/20,California,Male,Under 5 years,0
+7/22/20,2/1/20,7/11/20,California,Male,5-14 years,0
+7/22/20,2/1/20,7/11/20,California,Male,15-24 years,0
+7/22/20,2/1/20,7/11/20,California,Male,25-34 years,64
+7/22/20,2/1/20,7/11/20,California,Male,35-44 years,195
+7/22/20,2/1/20,7/11/20,California,Male,45-54 years,469
+7/22/20,2/1/20,7/11/20,California,Male,55-64 years,944
+7/22/20,2/1/20,7/11/20,California,Male,65-74 years,1467
+7/22/20,2/1/20,7/11/20,California,Male,75-84 years,1750
+7/22/20,2/1/20,7/11/20,California,Male,85 years and over,2200
