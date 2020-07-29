@@ -33,7 +33,7 @@ $ pip install pprint
 $ pip install scipy
 
 # Required API Keys in config.py
-*Required API Key census_key
+* Required API Key census_key, from http://www.census.gov/data
 
 # To run the application
 Clone the project to local computer/device
