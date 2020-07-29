@@ -53,6 +53,10 @@ Deaths_Median_Income_Scatter
 Deaths_Per_Cap_Scatter
 top_5_per_cap_deaths
 
+# ETL Documentation
+This file shows how we extracted, transformed, and loaded our data sources for plotting:
+ETL-Documentation.docx
+
 ## Data source API's to explore
 List our data source API's that we're exploring here.
 
